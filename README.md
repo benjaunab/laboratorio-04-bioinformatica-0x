@@ -1,1 +1,39 @@
-# laboratorio-04-bioinformatica-0x
+# Laboratorio 04 - Filogenética Molecular
+
+## Plataforma phylogeny.fr y preparación de datos
+
+### ¿Qué cosas ofrece este portal? 
+
+_R_:Es una web que se enfoca en la reconstrucción y analisis de relaciones filogeneticas entre secuencias moleculares. Además otorga 3 opciones de analisis filogenicos sencillos("One Click","Advanced" y "A la Carte").  
+
+### ¿Para qué tipo de usuario está diseñado?
+
+_R_: Para los usuarios no especialistas.
+
+### Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la documentación
+
+_R_: Posee 4 categorias de herramientas
+    
+    - De aliniamiento multiple como el Muscle
+    
+    - De filogenia como el PhyML o TNT.
+    
+    - De Utilidades como el Readseq
+    
+    - De "Tree viewers" como el TreeDyn o Drawgram
+    
+### ¿A qué se refiere el paso de *Alignment curation* y para qué sirve?
+
+_R_: Se refiera a la "limpieza" de las secuencias.
+
+### ¿Cuál es la diferencia entre BioNJ y Neighbor? (Pista: revisa la documentación)
+
+_R_:
+
+### Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?
+
+_R_:[Filogenia con ProbCons, MrBayes, y TreeDyn (sin curacion)](
+
+### Describe las diferencias entre las filogenias que has estimado: cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
+
+_R_:
