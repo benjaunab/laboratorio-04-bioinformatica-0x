@@ -28,7 +28,7 @@ _R_: Se refiera a la "limpieza" de las secuencias.
 
 ### ¿Cuál es la diferencia entre BioNJ y Neighbor? (Pista: revisa la documentación)
 
-_R_:
+_R_: La diferencia esta en sus taxones. BioNJ puede llegar hasta 5000 taxones en cambio Neighbor llega hasta 500 taxones.
 
 ### Corre de nuevo las filogenias pero esta vez sin *Alignment curation*. ¿Cuál es el efecto en las filogenias?
 
@@ -46,4 +46,5 @@ _R_:[FilogeniaconProbCons,GBlock,MrBayesyTreeDyn](https://drive.google.com/file/
 
 ### Describe las diferencias entre las filogenias que has estimado: cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
 
-_R_:
+_R_:Las relaciones varian bastantes entre ambas filogenias. En la primera filogenia(con ProbCons, GBlocks, MrBayes, y TreeDyn) el organismo Gavia _Stellata_ no posee un ancestro en comun cercano con la especie _Orycteropus afer afer_, encambio en la segunda filogenia estos tienen un ancestro en comun cercano, en otro caso las especies _Bos Taurus_, _Bos Indicus_ y _Bison Bison Bison_ presentan la misma relacion en ambas filogenias. 
+Con respecto a los grupos monofileticos la Filogenia 1 posee y la filogenia 2 tiene
